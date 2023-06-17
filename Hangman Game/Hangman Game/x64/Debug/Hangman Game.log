@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\TubAL\C++ Projects\Hangman-Game\Hangman Game\Hangman Game\main.cpp(24,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Hangman Game.vcxproj -> C:\Users\TubAL\C++ Projects\Hangman-Game\Hangman Game\x64\Debug\Hangman Game.exe
